@@ -1,0 +1,15 @@
+org\example\pages\FollowUsPage.class
+org\example\stepDefinitions\SearchStepDefinition.class
+org\example\testRunner\ScenariosRunner.class
+org\example\stepDefinitions\RegistrationStepDefinition.class
+org\example\stepDefinitions\CurrencyStepDefinition.class
+org\example\pages\WishListPage.class
+org\example\pages\HomePage.class
+org\example\pages\RegisterPage.class
+org\example\stepDefinitions\WishListStepDefinition.class
+org\example\stepDefinitions\SlidersStepDefinition.class
+org\example\stepDefinitions\FollowUsStepDefinition.class
+org\example\stepDefinitions\Hooks.class
+org\example\pages\LoginPage.class
+org\example\stepDefinitions\LoginStepDefinition.class
+org\example\stepDefinitions\HoverStepDefinition.class

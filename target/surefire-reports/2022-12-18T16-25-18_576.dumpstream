@@ -1,0 +1,4 @@
+# Created at 2022-12-18T16:25:19.187
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Udacity\Syllabus\Software testing (professional)\(7) Web Front-End  UI Testing\practice\E-CommerceFinalProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
